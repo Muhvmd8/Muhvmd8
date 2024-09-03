@@ -35,3 +35,5 @@
 <a href="https://komarev.com/ghpvc/?username=Muhvmd8&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Muhvmd8&style=for-the-badge">
 </a>
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
