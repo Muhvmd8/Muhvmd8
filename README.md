@@ -33,9 +33,11 @@
   **Databases & ORMs** 
   
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+  ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=flat&logo=dotnet&logoColor=white)
   ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
   ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=flat&logo=dotnet&logoColor=white)
   ![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=.net&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
   **🧑‍💻 Programming Paradigms & Principles**
   
