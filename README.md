@@ -27,8 +27,8 @@
   
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  ![OOP](https://img.shields.io/badge/OOP-239120?style=flat&logo=c-sharp&logoColor=white)
-  ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
+  ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+  ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat&logo=windows&logoColor=white)
   
   **Databases & ORMs** 
   
