@@ -36,6 +36,11 @@
   ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
   ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=flat&logo=dotnet&logoColor=white)
   ![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=.net&logoColor=white)
+
+  **🧑‍💻 Programming Paradigms & Principles**
+  
+  ![Onion Architecture](https://img.shields.io/badge/Onion_Architecture-6A1B9A?style=flat&logo=architecture&logoColor=white)
+  ![3-Tier Architecture](https://img.shields.io/badge/3--Tier_Architecture-1565C0?style=flat&logo=layers&logoColor=white)
   
   **Tools & Platforms** 
   
