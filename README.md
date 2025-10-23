@@ -38,6 +38,7 @@
   ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=flat&logo=dotnet&logoColor=white)
   ![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat&logo=.net&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-DC382D?style=flat&logo=MongoDB&logoColor=white)
 
   **🧑‍💻 Programming Paradigms & Principles**
   
